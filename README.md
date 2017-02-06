@@ -1,2 +1,2 @@
-# Project Euler Challenges in Java
+# Project Euler Challenges
 Project Euler challenges that I've done so far. Many not only allow you to solve the challenge but also allow you to enter your own parameters as input. These files should not be used to cheat on Project Euler (which makes no sense if you want to develop programming skills), for these files are simply meant to be shared with others who have also completed the specific challenges and for myself as a means of making Git and GitHub usage second nature.
